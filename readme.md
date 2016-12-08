@@ -1,10 +1,8 @@
 Esta aplicación utiliza:
 
-Mongodb para las bases de datos
-
-Node para la APIREST
-
-Angular para la parte Frontend
+- Mongodb para las bases de datos.
+- Node para la APIREST.
+- Angular para la parte Frontend.
 
 Para poder ejecutarla primero de todo hay que poner a correr la base de datos, para ello podemos hacer:
     
